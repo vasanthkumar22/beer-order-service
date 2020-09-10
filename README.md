@@ -1,2 +1,1 @@
-# beer-order-service
-Beer Order Microservice
+# Beer Order Microservice
